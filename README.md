@@ -17,8 +17,8 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [REACT](https://reactjs.org/)
-- [NPM](https://www.npmjs.com/)
+- [ReactJS](https://reactjs.org/)
+- [NPM](https://www.npmjs.com/) - 8.19.2
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) 
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
